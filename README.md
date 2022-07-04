@@ -23,26 +23,26 @@ Tools for installing Wavelink Telnet CE software on a PDA (symbol MC 9190 -9200 
 
 
 ### On the PDA
-*Intial Screen
-* Log: On/Off
- * click Fusion 
- * Manage Profiles
-  * Add: Wireless Lan Profile
-  * Oerating Mode: Infrastructure
-  * Country: USA
-  * Security mode: WPA2 - Personal
-  * Authentication: None
-  * Encryption: AES 
-  * check Allow WPA Mixed Mode
-  * Pass-phrase  
+* Intial Screen
+ * Log: On/Off
+  * click Fusion 
+  * Manage Profiles
+   * Add: Wireless Lan Profile
+   * Oerating Mode: Infrastructure
+   * Country: USA
+   * Security mode: WPA2 - Personal
+   * Authentication: None
+   * Encryption: AES 
+   * check Allow WPA Mixed Mode
+   * Pass-phrase  
 * Telnet edit Host: "System"
-* Alias: WMS
-* Emulation: VT220
-* Address: 192.168.10.191
-* Port: 23
-* Config:
- * Autologin
- * NamePrompt: login:
- * Name: wmrfuser
- * Password Prompt: Password:
- 
+ * Alias: WMS
+ * Emulation: VT220
+ * Address: 192.168.10.191
+ * Port: 23
+ * Config:
+  * Autologin
+  * NamePrompt: login:
+  * Name: wmrfuser
+  * Password Prompt: Password:
+
