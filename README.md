@@ -14,3 +14,9 @@ Tools for installing Wavelink Telnet CE software on a PDA (symbol MC 9190 -9200 
 ## Screenshots
 
 ![photo](https://github.com/solosoyfranco/Barcode-Scanner-Telnet-App/blob/main/photo.png?raw=true "photo")
+
+
+## Sources
+* https://junipersys.com/index.php/support/article/13929
+* https://www.microsoft.com/en-GB/download/details.aspx?id=21
+* https://www.youtube.com/watch?v=RWV4S4n-1n4
