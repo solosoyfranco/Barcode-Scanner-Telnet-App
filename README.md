@@ -26,9 +26,9 @@ Tools for installing Wavelink Telnet CE software on a PDA (symbol MC 9190 -9200 
 * Intial Screen
  * Log: On/Off
   * click Fusion 
-  * Manage Profiles
-   * Add: Wireless Lan Profile
-   * Oerating Mode: Infrastructure
+   * Manage Profiles
+    * Add: Wireless Lan Profile
+    * Oerating Mode: Infrastructure
    * Country: USA
    * Security mode: WPA2 - Personal
    * Authentication: None
